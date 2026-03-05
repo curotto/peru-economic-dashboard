@@ -5,16 +5,13 @@ Dashboard interactivo que visualiza los principales indicadores económicos del 
 ## Screenshots
 
 ### Página principal
-![Home](docs/images/home.png)
+![Home](docs/images/home.jpg)
 
-### PBI
-![PBI](docs/images/pbi.png)
+![PBI](docs/images/pbi.jpg)
 
-### Inflación
-![Inflacion](docs/images/inflacion.png)
+![Inflacion](docs/images/inflacion.jpg)
 
-### Empleo
-![Empleo](docs/images/empleo.png)
+![Empleo](docs/images/empleo.jpg)
 
 ## Tecnologías
 - **Python 3**
